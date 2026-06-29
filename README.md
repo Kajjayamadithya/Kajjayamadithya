@@ -20,7 +20,6 @@
 ### A little about me:
 
 - I enjoy turning ideas into real applications  
-- Currently learning **DevOps**
 - Looking for **internship opportunities** where I can learn, grow, and contribute
 - Reach out at **tarunadithya2006@gmail.com**
 
